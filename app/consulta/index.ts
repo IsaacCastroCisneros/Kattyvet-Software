@@ -1,0 +1,1 @@
+export {consultaContext} from './context/ConsultaContext'
